@@ -7,7 +7,7 @@ Hey there! Welcome to my personal portfolio website — I'm **Gani Adrian** from
 ---
 
 ## 🔍 What’s Inside?
-- Responsive layout (works on desktop & mobile!)
+- Responsive layout (works on desktop & mobile)
 - Personal profile section
 - Project gallery
 - Contact info
