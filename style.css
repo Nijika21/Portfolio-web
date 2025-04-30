@@ -129,6 +129,12 @@ section .title::after{
 .navbar.sticky .menu li a:hover{
     color: #fff;
 }
+model-viewer {
+    position: absolute;
+    height: 5rem;
+    left: -5rem;
+    padding-top: -20px;
+}
 
 /* menu btn styling */
 .menu-btn{
@@ -169,7 +175,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url(images/Nijika-Ijichi.jpg) no-repeat center;
+    background: url(assets/Nijika-Ijichi.jpg) no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -216,13 +222,6 @@ section .title::after{
 .home .home-content a:hover{
     color: var(--navcolor1);
     background: none;
-}
-model-viewer {
-    position: absolute;
-    width: 40%;
-    height: 83.5vh;
-    left: 50rem;
-    bottom: 2rem;
 }
 
 /* about section */
