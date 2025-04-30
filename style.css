@@ -2,7 +2,7 @@
 
 :root {
     --textcolor: rgb(0, 0, 0) ;
-    --navcolor1: rgba(255, 191, 0, 0.900);
+    --navcolor1: rgba(255, 217, 0, 0.932);
     --typingtext: rgb(255, 251, 3);
 }
 *{
@@ -395,19 +395,19 @@ background: #111;
     height: 100%;
     left: 0;
     top: 0;
-    background-color: var(--typingtext);
+    background-color: rgb(186, 255, 24);
 }
 .skills-content .right .ML::before{
-    width: 63%;
+    width: 70%;
 }
 .skills-content .right .HOK::before{
     width: 98%;
 }
-.skills-content .right .AOV::before{
+.skills-content .right .AOE::before{
     width: 57%;
 }
-.skills-content .right .CS::before{
-    width: 70%;
+.skills-content .right .MCGG::before{
+    width: 61%;
 }
 .skills-content .right .WOT::before{
     width: 85%;
