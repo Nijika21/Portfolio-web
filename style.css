@@ -131,7 +131,7 @@ section .title::after{
 }
 model-viewer {
     position: absolute;
-    height: 5rem;
+    height: 4.92rem;
     left: -5rem;
     padding-top: -20px;
 }
