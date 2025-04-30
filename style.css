@@ -3,7 +3,7 @@
 :root {
     --textcolor: rgb(0, 0, 0) ;
     --navcolor1: rgba(255, 191, 0, 0.900);
-    --typingtext: rgb(212, 160, 23);
+    --typingtext: rgb(255, 251, 3);
 }
 *{
     margin: 0;
@@ -594,16 +594,27 @@ footer span a:hover{
 
 
 /* responsive media */
+@media (max-width: 1320px) {
+    model-viewer{
+        left: 11rem;
+    }
+}
 @media (max-width: 1104px) {
     .about .about-content .left img{
         height: 350px;
         width: 350px;
+    }
+    model-viewer{
+        left: 10rem;
     }
 }
 
 @media (max-width: 991px) {
     .max-width{
         padding: 0 50px;
+    }
+    model-viewer{
+        left: 8rem;
     }
 }
 @media (max-width: 947px){
@@ -669,6 +680,9 @@ footer span a:hover{
         width: 100%;
         margin-bottom: 35px;
     }
+    model-viewer{
+        left: 9rem;
+    }
 }
 
 @media (max-width: 690px) {
@@ -686,6 +700,9 @@ footer span a:hover{
     }
     .history .history-content .card{
         width: 100%;
+    }
+    model-viewer{
+        left: 6.5rem;
     }
 }
 
