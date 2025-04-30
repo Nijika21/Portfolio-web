@@ -1,6 +1,6 @@
 # 🌟 Gani Adrian's Portfolio Website - X PPLG 3
 
-Hey there! Welcome to my personal portfolio website — I'm **Gani Adrian** **X PPLG 3**, and this site is where I showcase a little bit about myself and the things I’ve built. ✨
+Hey there! Welcome to my personal portfolio website — I'm **Gani Adrian** from **X PPLG 3**, and this site is where I showcase a little bit about myself and the things I’ve built. ✨
 
 **📍 [Check it out here!](https://nijika21.github.io/Portfolio-web/)🤩🤩**
 
