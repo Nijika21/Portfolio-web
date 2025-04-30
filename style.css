@@ -28,7 +28,6 @@ html{
     background: #555;
 }
 
-/* all similar content styling codes */
 section{
     padding: 100px 0;
 }
@@ -217,6 +216,13 @@ section .title::after{
 .home .home-content a:hover{
     color: var(--navcolor1);
     background: none;
+}
+model-viewer {
+    position: absolute;
+    width: 40%;
+    height: 83.5vh;
+    left: 50rem;
+    bottom: 2rem;
 }
 
 /* about section */
